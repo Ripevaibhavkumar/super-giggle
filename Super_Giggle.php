@@ -1,8 +1,8 @@
 <?php /*
-Plugin Name: Personalics
+Plugin Name: SUPER_GIGGLE
 Description: This plugin use for API.
 Version: 1.0.0
-Author: Vivek
+Author: SUPER_GIGGLE
 */
 include(ABSPATH . 'wp-config.php');
 global $wpdb;
